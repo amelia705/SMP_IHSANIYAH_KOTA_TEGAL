@@ -10,10 +10,28 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPIHSANIYAHKOTATEGAL">
         <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EkskulActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfilActivity"
+            android:exported="false" />
+        <activity
             android:name=".guruActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".GaleriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PerpusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FasilitasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

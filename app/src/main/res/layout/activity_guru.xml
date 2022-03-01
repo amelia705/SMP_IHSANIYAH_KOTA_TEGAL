@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".guruActivity">
+    tools:context=".guruActivity"
+    android:gravity="center">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -40,7 +41,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="" />
+                    android:src="@drawable/pakbambang" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -52,7 +53,8 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginTop="40dp"
                         android:gravity="center"
                         android:text="Drs. Bambang Setyawan, M.M."
                         android:textColor="#000"
@@ -62,10 +64,10 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="KEPALA SEKOLAH"
-                        android:textColor="#FF1100"
+                        android:textColor="@color/purple_500"
                         android:textSize="16sp"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -89,7 +91,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="" />
+                    android:src="@drawable/buefi" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -101,7 +103,8 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginTop="40dp"
                         android:gravity="center"
                         android:text="Efi Kurniasih, S.Pd."
                         android:textColor="#000"
@@ -111,7 +114,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Waka Kesiswaan"
                         android:textColor="@color/purple_500"
@@ -121,7 +124,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Guru Matematika"
                         android:textColor="@color/purple_500"
@@ -148,7 +151,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="" />
+                    android:src="@drawable/papras" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -160,7 +163,8 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginTop="40dp"
                         android:gravity="center"
                         android:text="Eko Prasetyo, S.Pd."
                         android:textColor="#000"
@@ -170,7 +174,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Waka Kurikulum"
                         android:textColor="@color/purple_500"
@@ -180,7 +184,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Guru Matematika"
                         android:textColor="@color/purple_500"
@@ -207,7 +211,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="" />
+                    android:src="@drawable/pakfalah" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -219,7 +223,8 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginTop="40dp"
                         android:gravity="center"
                         android:text="Nur Falah, S.Pd.I."
                         android:textColor="#000"
@@ -229,7 +234,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Waka Sarana / Prasarana"
                         android:textColor="@color/purple_500"
@@ -239,7 +244,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Guru Agama Ciri Khusus"
                         android:textColor="@color/purple_500"
@@ -266,7 +271,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="" />
+                    android:src="@drawable/paaziz" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -278,7 +283,8 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginTop="40dp"
                         android:gravity="center"
                         android:text="Aziz Ma'ruf, S.Pd."
                         android:textColor="#000"
@@ -288,7 +294,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Waka Humas"
                         android:textColor="@color/purple_500"
@@ -298,7 +304,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Guru Bahasa Indonesia"
                         android:textColor="@color/purple_500"
@@ -325,7 +331,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="" />
+                    android:src="@drawable/pakkasan"/>
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -337,7 +343,8 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginTop="40dp"
                         android:gravity="center"
                         android:text="Kasan, S.Ag."
                         android:textColor="#000"
@@ -347,7 +354,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Bendahara"
                         android:textColor="@color/purple_500"
@@ -357,7 +364,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Guru Agama Ciri Khusus"
                         android:textColor="@color/purple_500"
@@ -384,7 +391,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="" />
+                    android:src="@drawable/bufatmawati" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -396,7 +403,8 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginTop="40dp"
                         android:gravity="center"
                         android:text="Fatmawati, S.Pd.I"
                         android:textColor="#000"
@@ -406,7 +414,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Bendahara"
                         android:textColor="@color/purple_500"
@@ -416,7 +424,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Guru Agama Ciri Khusus"
                         android:textColor="@color/purple_500"
@@ -443,7 +451,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="" />
+                    android:src="@drawable/paknursyam" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -455,7 +463,8 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginTop="40dp"
                         android:gravity="center"
                         android:text="Nur Syam"
                         android:textColor="#000"
@@ -465,7 +474,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Kepala Tata Usaha"
                         android:textColor="@color/purple_500"
@@ -493,7 +502,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="" />
+                    android:src="@drawable/buros" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -505,7 +514,8 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginTop="40dp"
                         android:gravity="center"
                         android:text="Dra. Rasifah"
                         android:textColor="#000"
@@ -515,7 +525,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Waka Humas"
                         android:textColor="@color/purple_500"
@@ -525,7 +535,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="-Guru Bahasa Indonesia"
                         android:textColor="@color/purple_500"
@@ -552,7 +562,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="" />
+                    android:src="@drawable/buika" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -564,9 +574,10 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
+                        android:layout_marginTop="40dp"
                         android:gravity="center"
-                        android:text="Aziz Ma'ruf, S.Pd."
+                        android:text="Ika Dina Riyantini, M.Pd."
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -574,9 +585,9 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
-                        android:text="-Waka Humas"
+                        android:text="-Koordinator Kelas Intensif"
                         android:textColor="@color/purple_500"
                         android:textSize="16sp"
                         android:textStyle="bold" />
@@ -584,9 +595,9 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
+                        android:layout_marginLeft="40dp"
                         android:gravity="center"
-                        android:text="-Guru Bahasa Indonesia"
+                        android:text="-Guru Seni Budaya / Prakarya"
                         android:textColor="@color/purple_500"
                         android:textSize="16sp"
                         android:textStyle="bold" />

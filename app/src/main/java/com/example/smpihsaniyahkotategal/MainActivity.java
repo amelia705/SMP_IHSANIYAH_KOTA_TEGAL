@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void guru(View view) {
-        Intent intent = new Intent(com.example.smpihsaniyahkotategal.MainActivity.this, GuruActivity.class);
+        Intent intent = new Intent(com.example.smpihsaniyahkotategal.MainActivity.this, guruActivity.class);
         startActivity(intent);
     }
 

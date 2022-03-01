@@ -3,12 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/lp18/AndroidStudioProjects/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_guru.xml" value="0.22447916666666667" />
-        <entry key="..\:/Users/lp18/AndroidStudioProjects/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_guru.xml" value="0.22" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_perpus.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_profil.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_slider_item.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/slider_item.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
