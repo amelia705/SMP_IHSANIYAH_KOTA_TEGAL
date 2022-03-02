@@ -83,19 +83,19 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="80dp"
-                        android:layout_marginTop="5dp"
+                        android:layout_marginTop="15dp"
                         android:text="PROFIL SMP IHSANIYAH TEGAL"
                         android:textColor="#0000FF"
-                        android:textSize="28sp"
+                        android:textSize="20sp"
                         android:textStyle="bold" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="80dp"
-                        android:layout_marginTop="70dp"
-                        android:textSize="10sp"
-                        android:text="Jl. Sumbodro No. 14 Tegal, SLEROK, Kec. Tegal Timur, Kota Tegal Prov. Jawa Tengah"/>
+                        android:layout_marginTop="60dp"
+                        android:text="Jl. Sumbodro No. 14 Tegal, SLEROK, Kec. Tegal Timur, Kota Tegal Prov. Jawa Tengah"
+                        android:textSize="10sp" />
 
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -106,9 +106,9 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="Nama Sekolah : SMP IHSANIYAH TEGAL "
                             android:textColor="#000"/>
@@ -116,9 +116,9 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="Kepala Sekolah : Drs. Bambang Setyawan, M.M."
                             android:textColor="#000"/>
@@ -126,9 +126,9 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="Alamat : JL. Sumbodro No. 14"
                             android:textColor="#000"/>
@@ -136,19 +136,19 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
-                            android:text="Kode Pos :  "
+                            android:text="Kode Pos : 52125"
                             android:textColor="#000"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="Desa / Kelurahan : Slerok"
                             android:textColor="#000"/>
@@ -156,19 +156,19 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
-                            android:text="Kecamatan / Kota (LN) : Kec. "
+                            android:text="Kecamatan / Kota (LN) : Kec. Tegal Timur"
                             android:textColor="#000"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="Kab. / Kota / Negara (LN) : Kota Tegal"
                             android:textColor="#000"/>
@@ -176,9 +176,9 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="Provinsi / Luar Negeri : Jawa Tengah"
                             android:textColor="#000"/>
@@ -186,19 +186,19 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
-                            android:text="Status Sekolah : swasta"
+                            android:text="Status Sekolah : Swasta"
                             android:textColor="#000"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="Waktu Penyenggaraan : Pagi / 6 hari"
                             android:textColor="#000"/>
@@ -206,9 +206,9 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="Jenjang Pendidikan : SMP"
                             android:textColor="#000"/>
@@ -216,9 +216,10 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="12sp"
+                            android:layout_marginBottom="12dp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="Kurikulum : SMP 2013"
                             android:textColor="#000"/>
@@ -229,7 +230,7 @@
 
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:layout_rowWeight="1"
                     android:layout_columnWeight="1"
                     android:layout_marginLeft="12dp"
@@ -256,7 +257,7 @@
                         android:layout_marginTop="20dp"
                         android:text="VISI"
                         android:textColor="#0000FF"
-                        android:textSize="28sp"
+                        android:textSize="20sp"
                         android:textStyle="bold" />
 
 
@@ -268,12 +269,13 @@
 
                         <TextView
                             android:layout_width="wrap_content"
-                            android:layout_height="match_parent"
-                            android:layout_marginLeft="5dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
+                            android:layout_marginBottom="12dp"
                             android:text="Teguh dalam Keimanan, Terampil dalam Berkarya, Luas dalam Pemikiran, Berakhlak Mulia, serta Peduli Lingkungan"
                             android:textColor="#000"
-                            android:textSize="22sp"
+                            android:textSize="15sp"
                             android:textStyle="bold" />
 
                     </LinearLayout>
@@ -309,7 +311,7 @@
                         android:layout_marginTop="20dp"
                         android:text="MISI"
                         android:textColor="#0000FF"
-                        android:textSize="28sp"
+                        android:textSize="20sp"
                         android:textStyle="bold" />
 
 
@@ -322,9 +324,9 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="22sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="1. Sekolah memfasilitasi kegiatan untuk meningkatkan iman dan takwa."
                             android:textColor="#000"/>
@@ -332,9 +334,9 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="22sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="2. Sekolah mengembangkan minat dan bakat warga sekolah untuk meningkatkan ketrampilan peserta didik sesuai dengan potensinya."
                             android:textColor="#000"/>
@@ -342,9 +344,9 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="22sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="3. Sekolah memfasilitasi terwujudnya lulusan yang sehat, cerdas, dan berprestasi."
                             android:textColor="#000"/>
@@ -352,9 +354,9 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="22sp"
+                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="4. Sekolah membentuk pribadi yang luhur dan berakhlak mulia melalui kegiatan pembiasaan secara terus menerus dan berkesinambungan."
                             android:textColor="#000"/>
@@ -362,12 +364,13 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:textSize="22sp"
-                            android:textStyle="bold"
+                            android:layout_marginBottom="12dp"
                             android:text="5. Sekolah membina dan memfasilitasi upaya pelestarian lingkungan hidup."
-                            android:textColor="#000"/>
+                            android:textColor="#000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
 
                     </LinearLayout>
 
@@ -402,7 +405,7 @@
                         android:layout_marginTop="20dp"
                         android:text="TUJUAN PENDIDIKAN"
                         android:textColor="#0000FF"
-                        android:textSize="28sp"
+                        android:textSize="20sp"
                         android:textStyle="bold" />
 
 
@@ -415,19 +418,72 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
+                            android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:layout_marginTop="20dp"
+                            android:layout_marginBottom="12dp"
                             android:text="1. Membiasakan diri patuh dan taat menunaikan ibadah bagi seluruh warga sekolah."
                             android:textColor="#000"
-                            android:textSize="22sp"
+                            android:textSize="15sp"
                             android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="12dp"
+                            android:layout_marginRight="12dp"
+                            android:layout_marginBottom="12dp"
+                            android:textColor="#000"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
+                            android:text="2. Meningkatkan kemampuan peserta didik dalam bidang baca tulis Al-quran."/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="12dp"
+                            android:layout_marginRight="12dp"
+                            android:layout_marginBottom="12dp"
+                            android:textColor="#000"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
+                            android:text="3. Membiasakan peserta didik untuk disiplin dan hidup sehat."/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="12dp"
+                            android:layout_marginRight="12dp"
+                            android:layout_marginBottom="12dp"
+                            android:textColor="#000"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
+                            android:text="4. Berupaya meningkatkan perolehan nilai rata-rata kelulusan dengan rata-rata minimal 80."/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="12dp"
+                            android:layout_marginRight="12dp"
+                            android:layout_marginBottom="12dp"
+                            android:textColor="#000"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
+                            android:text="5. Meraih prestasi di bidang akademik dan non-akademik di tingkatkan kota dan provinsi."/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="12dp"
+                            android:layout_marginRight="12dp"
+                            android:layout_marginBottom="12dp"
+                            android:textColor="#000"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
+                            android:text="6. Memiliki lulusan yang berbudaya peduli terhadap kelestarian lingkungan."/>
 
                     </LinearLayout>
 
                 </androidx.cardview.widget.CardView>
-
-
 
             </GridLayout>
 
