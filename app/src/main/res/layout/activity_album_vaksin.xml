@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bag"
+    tools:context=".AlbumVaksinActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="400dp"
+                        android:adjustViewBounds="true"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/vaksin"/>
+
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="7dp"
+                    android:layout_height="match_parent"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="400dp"
+                        android:adjustViewBounds="true"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/vaksin1"/>
+
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="7dp"
+                    android:layout_height="match_parent"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="400dp"
+                        android:adjustViewBounds="true"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/vaksin2"/>
+
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="7dp"
+                    android:layout_height="match_parent"/>
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_marginRight="12dp"
+                android:layout_marginTop="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:textStyle="bold"
+                    android:text="ALBUM KEGIATAN VAKSINISASI"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:textAlignment="center"
+                    android:layout_marginTop="20dp"
+                    android:textColor="#000"
+                    android:textSize="10sp"
+                    android:text="KEGIATAN VAKSINASI SMP IHSANIYAH TEGALPada Selasa (31/9), SMP Ihsaniyah Tegal menyelenggarakan kegiatan vaksinasi kepada para siswa... Kegiatan tersebut dilakukan dalam upaya pencegahan penyebaran covid-19 saat pembelajaran tatap muka (PTM) dimulai...PTM sendiri rencananya akan dilaksanakan pada Senin, 6 September 2021... Penyelenggaraan PTM sudah mendapat restu dari Dinas Pendidikan Kota Tegal...Jadi buat kalian yg merindukan sekolah, bersiaplah rindu kalian akan segera terobati."/>
+
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

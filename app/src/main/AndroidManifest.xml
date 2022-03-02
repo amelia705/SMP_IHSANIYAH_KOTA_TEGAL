@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPIHSANIYAHKOTATEGAL">
         <activity
+            android:name=".AlbumVaksinActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumHutPgriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumKemahBudayaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumPerpisahanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumOsisActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
