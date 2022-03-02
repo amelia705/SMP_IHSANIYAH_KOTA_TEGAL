@@ -67,7 +67,7 @@
                         android:layout_marginLeft="40dp"
                         android:gravity="center"
                         android:text="KEPALA SEKOLAH"
-                        android:textColor="@color/purple_500"
+                        android:textColor="#FF0000"
                         android:textSize="16sp"
                         android:textStyle="bold" />
                 </LinearLayout>

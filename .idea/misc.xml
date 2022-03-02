@@ -3,14 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_album_hut_pgri.xml" value="0.16" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_album_kemah_budaya.xml" value="0.1213768115942029" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_album_osis.xml" value="0.1" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_album_perpisahan.xml" value="0.1" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_album_vaksin.xml" value="0.18" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_galeri.xml" value="0.1213768115942029" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_profil.xml" value="0.1" />
+        <entry key="..\:/Users/lp18/AndroidStudioProjects/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_fasilitas.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/lp18/AndroidStudioProjects/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_galeri.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/lp18/AndroidStudioProjects/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_guru.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/lp18/AndroidStudioProjects/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_kelas.xml" value="0.18" />
+        <entry key="..\:/Users/lp18/AndroidStudioProjects/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_lapanganbasket.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/lp18/AndroidStudioProjects/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/lp18/AndroidStudioProjects/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_profil.xml" value="0.22447916666666667" />
       </map>
     </option>
   </component>
