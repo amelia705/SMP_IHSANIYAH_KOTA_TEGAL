@@ -18,4 +18,9 @@ public class FasilitasActivity extends AppCompatActivity {
         Intent intent = new Intent(FasilitasActivity.this, KelasActivity.class);
         startActivity(intent);
     }
+
+    public void lapanganbasket(View view) {
+        Intent intent = new Intent(FasilitasActivity.this, LapanganbasketActivity.class);
+        startActivity(intent);
+    }
 }
