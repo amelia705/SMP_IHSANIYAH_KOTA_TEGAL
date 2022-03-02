@@ -28,19 +28,19 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src=""/>
+                        android:src="@drawable/sklh"/>
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src=""/>
+                        android:src="@drawable/masjid"/>
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src=""/>
+                        android:src="@drawable/basket1"/>
 
                 </ViewFlipper>
             </RelativeLayout>
@@ -81,7 +81,7 @@
                             android:layout_margin="10dp"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="">
+                            android:src="@drawable/ruangkelas">
 
                         </ImageView>
 
@@ -125,7 +125,7 @@
                             android:layout_margin="10dp"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="">
+                            android:src="@drawable/lapanganbasket">
 
                         </ImageView>
 
