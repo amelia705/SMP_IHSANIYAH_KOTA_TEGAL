@@ -30,19 +30,19 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/hdr"/>
+                        android:src="@drawable/hdr" />
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/headerihs"/>
+                        android:src="@drawable/headerihs" />
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/headerihs2"/>
+                        android:src="@drawable/headerihs2" />
                 </ViewFlipper>
             </RelativeLayout>
             <!--            Header-->
@@ -71,13 +71,15 @@
                             android:layout_height="match_parent"
                             android:gravity="center"
                             android:orientation="vertical">
+
                             <ImageView
                                 android:layout_width="80dp"
                                 android:layout_height="80dp"
-                                android:onClick="profil"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/profil"/>
+                                android:onClick="profil"
+                                android:src="@drawable/profil" />
+
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
