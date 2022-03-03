@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity"
-    android:background="@drawable/bag">
+    android:background="@drawable/bag1">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -30,19 +30,25 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/hdr" />
+                        android:src="@drawable/poster2" />
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/headerihs" />
+                        android:src="@drawable/poster1" />
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
                         android:src="@drawable/headerihs2" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/headerihs" />
                 </ViewFlipper>
             </RelativeLayout>
             <!--            Header-->
@@ -69,6 +75,7 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
+                            android:background="@drawable/bag2"
                             android:gravity="center"
                             android:orientation="vertical">
 
@@ -111,6 +118,7 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
+                            android:background="@drawable/bag2"
                             android:gravity="center"
                             android:orientation="vertical">
                             <ImageView
@@ -160,6 +168,7 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
+                            android:background="@drawable/bag2"
                             android:gravity="center"
                             android:orientation="vertical">
                             <ImageView
@@ -200,6 +209,7 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
+                            android:background="@drawable/bag2"
                             android:gravity="center"
                             android:orientation="vertical">
                             <ImageView
@@ -249,6 +259,7 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
+                            android:background="@drawable/bag2"
                             android:gravity="center"
                             android:orientation="vertical">
                             <ImageView
@@ -289,6 +300,7 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
+                            android:background="@drawable/bag2"
                             android:gravity="center"
                             android:orientation="vertical">
 

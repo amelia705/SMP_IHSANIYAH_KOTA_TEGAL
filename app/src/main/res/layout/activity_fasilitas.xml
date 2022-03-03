@@ -72,6 +72,7 @@
                         android:layout_width="match_parent"
                         android:layout_gravity="center"
                         android:layout_height="match_parent"
+                        android:background="#FF8C00"
                         android:orientation="horizontal">
 
                         <ImageView
@@ -116,6 +117,7 @@
                         android:layout_width="match_parent"
                         android:layout_gravity="center"
                         android:layout_height="match_parent"
+                        android:background="#00FF00"
                         android:orientation="horizontal">
 
                         <ImageView
