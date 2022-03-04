@@ -130,6 +130,17 @@
                             android:layout_marginRight="12dp"
                             android:textSize="15sp"
                             android:textStyle="bold"
+                            android:text="Situs : https://smpihsaniyahkotategal.sch.id/"
+                            android:textColor="#000"
+                            android:autoLink="web"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="12dp"
+                            android:layout_marginRight="12dp"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
                             android:text="Alamat : JL. Sumbodro No. 14"
                             android:textColor="#000"/>
 
