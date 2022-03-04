@@ -72,6 +72,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_gravity="center"
+                        android:background="#FF8C"
                         android:orientation="horizontal">
 
 
@@ -92,6 +93,7 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
                             android:textStyle="bold"
+                            android:textSize="20dp"
                             android:text="KEGIATAN PELANTIKAN OSIS">
 
                         </TextView>
@@ -121,6 +123,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_gravity="center"
+                        android:background="@color/purple_200"
                         android:orientation="horizontal">
 
 
@@ -141,6 +144,7 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
                             android:textStyle="bold"
+                            android:textSize="20dp"
                             android:text="ALBUM KEGIATAN HADROH">
 
                         </TextView>
@@ -170,6 +174,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_gravity="center"
+                        android:background="#FFEB3B"
                         android:orientation="horizontal">
 
 
@@ -190,6 +195,7 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
                             android:textStyle="bold"
+                            android:textSize="20dp"
                             android:text="KEGIATAN KEMAH BUDAYA">
 
                         </TextView>
@@ -215,6 +221,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_gravity="center"
+                        android:background="#98FC86"
                         android:orientation="horizontal">
 
 
@@ -235,6 +242,7 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
                             android:textStyle="bold"
+                            android:textSize="20dp"
                             android:text="ALBUM KEGIATAN HUT PGRI">
 
                         </TextView>
@@ -260,6 +268,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_gravity="center"
+                        android:background="#E800BCD4"
                         android:orientation="horizontal">
 
 
@@ -280,6 +289,7 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
                             android:textStyle="bold"
+                            android:textSize="20dp"
                             android:text="KEGIATAN VAKSINISASI">
 
                         </TextView>
