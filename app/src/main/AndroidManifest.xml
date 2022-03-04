@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPIHSANIYAHKOTATEGAL">
         <activity
+            android:name=".BasketActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VollyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PmrActivity"
+            android:exported="false" />
+        <activity
             android:name=".KarateActivity"
             android:exported="false" />
         <activity

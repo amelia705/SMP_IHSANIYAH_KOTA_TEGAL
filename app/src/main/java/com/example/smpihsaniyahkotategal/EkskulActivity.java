@@ -34,20 +34,32 @@ public class EkskulActivity extends AppCompatActivity {
     }
 
     public void pramuka(View view) {
+        Intent intent = new Intent(com.example.smpihsaniyahkotategal.EkskulActivity.this, PramukaActivity.class);
+        startActivity(intent);
     }
 
     public void pmr(View view) {
+        Intent intent = new Intent(com.example.smpihsaniyahkotategal.EkskulActivity.this, PmrActivity.class);
+        startActivity(intent);
     }
 
     public void futsal(View view) {
+        Intent intent = new Intent(com.example.smpihsaniyahkotategal.EkskulActivity.this, FutsalActivity.class);
+        startActivity(intent);
     }
 
     public void volly(View view) {
+        Intent intent = new Intent(com.example.smpihsaniyahkotategal.EkskulActivity.this, VollyActivity.class);
+        startActivity(intent);
     }
 
     public void karate(View view) {
+        Intent intent = new Intent(com.example.smpihsaniyahkotategal.EkskulActivity.this, KarateActivity.class);
+        startActivity(intent);
     }
 
     public void basket(View view) {
+        Intent intent = new Intent(com.example.smpihsaniyahkotategal.EkskulActivity.this, BasketActivity.class);
+        startActivity(intent);
     }
 }

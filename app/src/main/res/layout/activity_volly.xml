@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FutsalActivity">
+    tools:context=".VollyActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
@@ -22,7 +22,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/futsalihs"
+                android:src="@drawable/karateihs"
                 android:scaleType="fitXY"
                 android:layout_marginBottom="15dp"
                 app:layout_collapseMode="parallax"/>
@@ -75,7 +75,7 @@
                         android:layout_marginLeft="12dp"
                         android:layout_marginRight="12dp"
                         android:layout_marginTop="12dp"
-                        android:src="@drawable/footballplayers"/>
+                        android:src="@drawable/volleyballplayer"/>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -85,7 +85,7 @@
                         android:textColor="#000"
                         android:textSize="18sp"
                         android:textStyle="bold"
-                        android:text="EKSKUL FUTSAL"/>
+                        android:text="EKSKUL VOLLY"/>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -107,7 +107,7 @@
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="5dp"
                             android:textColor="#000"
-                            android:text="Futsal adalah permainan bola yang dimainkan oleh dua tim, yang masing-masing beranggotakan lima orang. Tujuannya adalah memasukkan bola ke gawang lawan, dengan memanipulasi bola dengan kaki. Selain lima pemain utama, setiap regu juga diizinkan memiliki pemain cadangan."/>
+                            android:text="Karate adalah seni bela diri yang berasal dari Jepang. Seni bela diri ini sedikit dipengaruhi oleh Seni bela diri Cina kenpō. Karate dibawa masuk ke Jepang lewat Okinawa dan mulai berkembang di Ryukyu Islands."/>
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>

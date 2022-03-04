@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FutsalActivity">
+    tools:context=".PmrActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
@@ -22,7 +22,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/futsalihs"
+                android:src="@drawable/pmr"
                 android:scaleType="fitXY"
                 android:layout_marginBottom="15dp"
                 app:layout_collapseMode="parallax"/>
@@ -75,7 +75,7 @@
                         android:layout_marginLeft="12dp"
                         android:layout_marginRight="12dp"
                         android:layout_marginTop="12dp"
-                        android:src="@drawable/footballplayers"/>
+                        android:src="@drawable/firstaidkit"/>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -85,7 +85,7 @@
                         android:textColor="#000"
                         android:textSize="18sp"
                         android:textStyle="bold"
-                        android:text="EKSKUL FUTSAL"/>
+                        android:text="EKSKUL PMR"/>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -107,8 +107,7 @@
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="5dp"
                             android:textColor="#000"
-                            android:text="Futsal adalah permainan bola yang dimainkan oleh dua tim, yang masing-masing beranggotakan lima orang. Tujuannya adalah memasukkan bola ke gawang lawan, dengan memanipulasi bola dengan kaki. Selain lima pemain utama, setiap regu juga diizinkan memiliki pemain cadangan."/>
-
+                            android:text="Palang Merah Remaja (disingkat PMR) adalah wadah pembinaan dan pengembangan anggota remaja PMI, yang selanjutnya disebut PMR.Terdapat di PMI kota atau kabupaten di seluruh Indonesia, dengan anggota lebih dari 5 juta orang, anggota PMR merupakan salah satu kekuatan PMI dalam melaksanakan kegiatan-kegiatan kemanusiaan dibidang kesehatan dan siaga bencana, mempromosikan prinsip-prinsip dasar gerakan palang merah dan bulan sabit merah internasional, serta mengembangkan kapasitas organisasi PMI."/>
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
             </GridLayout>

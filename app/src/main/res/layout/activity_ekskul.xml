@@ -94,9 +94,9 @@
                                         <ImageView
                                             android:layout_width="150dp"
                                             android:layout_height="100dp"
+                                            android:layout_alignParentRight="true"
                                             android:maxHeight="100dp"
-                                            android:src="@drawable/campingtent"
-                                            android:layout_alignParentRight="true"/>
+                                            android:src="@drawable/campingtent" />
                                     </RelativeLayout>
                                 </androidx.cardview.widget.CardView>
                             </LinearLayout>
@@ -134,9 +134,9 @@
                                         <ImageView
                                             android:layout_width="150dp"
                                             android:layout_height="100dp"
+                                            android:layout_alignParentRight="true"
                                             android:maxHeight="100dp"
-                                            android:src="@drawable/firstaidkit"
-                                            android:layout_alignParentRight="true"/>
+                                            android:src="@drawable/firstaidkit" />
                                     </RelativeLayout>
                                 </androidx.cardview.widget.CardView>
                             </LinearLayout>
@@ -174,9 +174,9 @@
                                         <ImageView
                                             android:layout_width="150dp"
                                             android:layout_height="100dp"
+                                            android:layout_alignParentRight="true"
                                             android:maxHeight="100dp"
-                                            android:src="@drawable/footballplayers"
-                                            android:layout_alignParentRight="true"/>
+                                            android:src="@drawable/footballplayers" />
                                     </RelativeLayout>
                                 </androidx.cardview.widget.CardView>
                             </LinearLayout>
@@ -214,9 +214,9 @@
                                         <ImageView
                                             android:layout_width="150dp"
                                             android:layout_height="100dp"
+                                            android:layout_alignParentRight="true"
                                             android:maxHeight="100dp"
-                                            android:src="@drawable/volleyballplayer"
-                                            android:layout_alignParentRight="true"/>
+                                            android:src="@drawable/volleyballplayer" />
                                     </RelativeLayout>
                                 </androidx.cardview.widget.CardView>
                             </LinearLayout>
@@ -254,9 +254,9 @@
                                         <ImageView
                                             android:layout_width="150dp"
                                             android:layout_height="100dp"
+                                            android:layout_alignParentRight="true"
                                             android:maxHeight="100dp"
-                                            android:src="@drawable/karate"
-                                            android:layout_alignParentRight="true"/>
+                                            android:src="@drawable/karate" />
                                     </RelativeLayout>
                                 </androidx.cardview.widget.CardView>
                             </LinearLayout>
