@@ -1,9 +1,274 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bag"
     tools:context=".Buku7Activity">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:layout_margin="15dp"
+            android:layout_marginLeft="15dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="15dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="KATALOG BUKU KELAS VII"
+                    android:textSize="27sp"
+                    android:textStyle="bold" />
+
+                <RelativeLayout
+                    android:layout_width="10dp"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+
+            <!--            BARIS 1-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="548dp"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Daftar Buku"
+                    android:textStyle="bold" />
+
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <!--                        BUKU 1-->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@color/white"
+                            android:orientation="vertical">
+
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:adjustViewBounds="true"
+                                android:cropToPadding="true"
+                                android:src="@drawable/mtk7" />
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="MATEMATIKA" />
+
+                            <Button
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginRight="3dp"
+                                android:autoLink="web"
+                                android:background="@color/white"
+                                android:clickable="true"
+                                android:cursorVisible="true"
+                                android:linksClickable="true"
+                                android:onClick="mtk7"
+                                android:text="BACA"
+                                android:textColor="@color/white" />
+
+                        </LinearLayout>
+                        <!--                        PENUTUP BUKU 1-->
+
+                        <!--                        BUKU 2-->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@color/white"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:adjustViewBounds="true"
+                                android:cropToPadding="true"
+                                android:src="@drawable/indo7" />
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="BAHASA INDONESIA" />
+
+                            <Button
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginRight="3dp"
+                                android:autoLink="web"
+                                android:background="@color/white"
+                                android:clickable="true"
+                                android:cursorVisible="true"
+                                android:linksClickable="true"
+                                android:onClick="bin7"
+                                android:text="BACA"
+                                android:textColor="@color/white" />
+
+                        </LinearLayout>
+                        <!--                        PENUTUP BUKU 2-->
+
+                        <!--                        BUKU 3-->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@color/white"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:adjustViewBounds="true"
+                                android:cropToPadding="true"
+                                android:src="@drawable/ing7" />
+
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="BAHASA INGGRIS" />
+
+                            <Button
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginRight="3dp"
+                                android:autoLink="web"
+                                android:background="@color/white"
+                                android:clickable="true"
+                                android:cursorVisible="true"
+                                android:linksClickable="true"
+                                android:onClick="bing7"
+                                android:text="BACA"
+                                android:textColor="@color/white" />
+
+                        </LinearLayout>
+                        <!--                        PENUTUP BUKU 3-->
+
+                        <!--                        BUKU 4-->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@color/white"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:adjustViewBounds="true"
+                                android:cropToPadding="true"
+                                android:src="@drawable/mtk8" />
+
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="MATEMATIKA" />
+
+                            <Button
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginRight="3dp"
+                                android:autoLink="web"
+                                android:background="@color/white"
+                                android:clickable="true"
+                                android:cursorVisible="true"
+                                android:linksClickable="true"
+                                android:text="BACA"
+                                android:textColor="@color/white" />
+
+                        </LinearLayout>
+                        <!--                        PENUTUP BUKU 4-->
+
+                        <!--                        BUKU 5-->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@color/white"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1"
+                                android:adjustViewBounds="true"
+                                android:cropToPadding="true"
+                                android:src="@drawable/mtk7" />
+
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="IPS" />
+
+                            <Button
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginRight="3dp"
+                                android:autoLink="web"
+                                android:background="@color/white"
+                                android:clickable="true"
+                                android:cursorVisible="true"
+                                android:linksClickable="true"
+                                android:text="BACA"
+                                android:textColor="@color/white" />
+
+                        </LinearLayout>
+                        <!--                        PENUTUP BUKU 5-->
+                    </LinearLayout>
+
+                </ScrollView>
+
+            </LinearLayout>
+            <!--            PENUTUP BARIS 1-->
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
