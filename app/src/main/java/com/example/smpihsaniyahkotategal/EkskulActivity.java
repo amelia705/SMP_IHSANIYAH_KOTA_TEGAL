@@ -36,7 +36,7 @@ public class EkskulActivity extends AppCompatActivity {
     public void musik(View view) {
     }
 
-    public void basket(View view) {
+    public void lari(View view) {
     }
 
     public void bulutangkis(View view) {

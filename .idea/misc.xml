@@ -8,17 +8,28 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_album_osis.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_album_perpisahan.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_album_vaksin.xml" value="0.18" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_basket.xml" value="0.1" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_ekskul.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_fasilitas.xml" value="0.14" />
         <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_galeri.xml" value="0.1213768115942029" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_lapanganbasket.xml" value="0.1213768115942029" />
         <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/User/AndroidStudioProjects/SMPIHSANIYAHKOTATEGAL/app/src/main/res/layout/activity_profil.xml" value="0.1" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_album_hut_pgri.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_album_kemah_budaya.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_album_perpisahan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_album_vaksin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_ekskul.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_fasilitas.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_galeri.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_guru.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_kelas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_lapanganbasket.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_perpus.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_profil.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dwiky/SMP_IHSANIYAH_KOTA_TEGAL/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

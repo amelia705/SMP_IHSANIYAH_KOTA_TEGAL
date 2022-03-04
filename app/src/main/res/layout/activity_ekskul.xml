@@ -117,7 +117,7 @@
                                 android:layout_marginBottom="12dp"
                                 app:cardCornerRadius="8dp"
                                 app:cardElevation="8dp"
-                                android:onClick="basket">
+                                android:onClick="lari">
 
                                 <LinearLayout
                                     android:layout_width="match_parent"
@@ -132,7 +132,7 @@
                                         android:layout_margin="10dp"
                                         android:layout_marginLeft="10dp"
                                         android:layout_marginTop="10dp"
-                                        android:src="@drawable/logobasket">
+                                        android:src="@drawable/logolari">
 
                                     </ImageView>
 
@@ -141,7 +141,7 @@
                                         android:layout_height="wrap_content"
                                         android:layout_gravity="center"
                                         android:layout_marginLeft="50dp"
-                                        android:text="Ekskul Basket">
+                                        android:text="Eskul Lari">
 
                                     </TextView>
                                 </LinearLayout>
