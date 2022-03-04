@@ -33,12 +33,21 @@ public class EkskulActivity extends AppCompatActivity {
         sliderView.startAutoCycle();
     }
 
-    public void musik(View view) {
+    public void pramuka(View view) {
     }
 
-    public void lari(View view) {
+    public void pmr(View view) {
     }
 
-    public void bulutangkis(View view) {
+    public void futsal(View view) {
+    }
+
+    public void volly(View view) {
+    }
+
+    public void karate(View view) {
+    }
+
+    public void basket(View view) {
     }
 }
