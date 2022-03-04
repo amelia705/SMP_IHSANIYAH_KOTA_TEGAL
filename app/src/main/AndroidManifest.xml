@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPIHSANIYAHKOTATEGAL">
         <activity
+            android:name=".Buku9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Buku8Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Buku7Activity"
+            android:exported="false" />
+        <activity
             android:name=".BasketActivity"
             android:exported="false" />
         <activity
