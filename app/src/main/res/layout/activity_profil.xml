@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bag"
+    android:background="@drawable/bag2"
     tools:context=".ProfilActivity">
 
     <com.google.android.material.appbar.AppBarLayout
@@ -130,17 +130,6 @@
                             android:layout_marginRight="12dp"
                             android:textSize="15sp"
                             android:textStyle="bold"
-                            android:text="Situs : https://smpihsaniyahkotategal.sch.id/"
-                            android:textColor="#000"
-                            android:autoLink="web"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginLeft="12dp"
-                            android:layout_marginRight="12dp"
-                            android:textSize="15sp"
-                            android:textStyle="bold"
                             android:text="Alamat : JL. Sumbodro No. 14"
                             android:textColor="#000"/>
 
@@ -229,11 +218,22 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="12dp"
                             android:layout_marginRight="12dp"
-                            android:layout_marginBottom="12dp"
                             android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="Kurikulum : SMP 2013"
                             android:textColor="#000"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="12dp"
+                            android:layout_marginRight="12dp"
+                            android:layout_marginBottom="12dp"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
+                            android:text="Situs : https://smpihsaniyahkotategal.sch.id/"
+                            android:textColor="#000"
+                            android:autoLink="web"/>
 
                     </LinearLayout>
 
