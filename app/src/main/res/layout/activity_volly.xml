@@ -107,7 +107,7 @@
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="5dp"
                             android:textColor="#000"
-                            android:text="Bola voli adalah permainan olahraga yang dimainkan oleh dua grup berlawanan. Masing-masing grup memiliki enam orang pemain. Terdapat pula variasi permainan bola voli pantai yang masing-masing timnya hanya memiliki dua orang pemain. Olahraga ini dinaungi FIVB sebagai induk organisasi internasional."/>
+                            android:text="hghgBola voli adalah permainan olahraga yang dimainkan oleh dua grup berlawanan. Masing-masing grup memiliki enam orang pemain. Terdapat pula variasi permainan bola voli pantai yang masing-masing timnya hanya memiliki dua orang pemain. Olahraga ini dinaungi FIVB sebagai induk organisasi internasional."/>
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
