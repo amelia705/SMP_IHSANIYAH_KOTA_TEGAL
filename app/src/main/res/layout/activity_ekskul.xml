@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bag"
+    android:background="@drawable/bag2"
     tools:context=".EkskulActivity">
     <FrameLayout
         android:layout_width="match_parent"
@@ -84,12 +84,12 @@
                                         <TextView
                                             android:layout_width="wrap_content"
                                             android:layout_height="wrap_content"
-                                            android:text="Pramuka"
-                                            android:textSize="30sp"
-                                            android:textColor="#fff"
-                                            android:textStyle="bold"
+                                            android:layout_marginLeft="10dp"
                                             android:layout_marginTop="10dp"
-                                            android:layout_marginLeft="10dp" />
+                                            android:text="Pramuka"
+                                            android:textColor="#fff"
+                                            android:textSize="30sp"
+                                            android:textStyle="bold" />
 
                                         <ImageView
                                             android:layout_width="150dp"

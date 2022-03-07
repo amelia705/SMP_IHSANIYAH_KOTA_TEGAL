@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bag2"
     tools:context=".PerpusActivity">
 
     <FrameLayout
@@ -60,8 +61,8 @@
                         <!--                            pembuka menu 1-->
                         <androidx.cardview.widget.CardView
                             android:onClick="buku7"
-                            android:layout_width="150dp"
-                            android:layout_height="150dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="120dp"
                             android:layout_rowWeight="1"
                             android:layout_columnWeight="1"
                             android:layout_marginLeft="12dp"
@@ -75,17 +76,18 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
+                                android:background="#4B0082"
                                 android:orientation="horizontal">
 
 
                                 <ImageView
-                                    android:layout_width="140dp"
-                                    android:layout_height="140dp"
+                                    android:layout_width="150dp"
+                                    android:layout_height="100dp"
                                     android:layout_margin="10dp"
                                     android:layout_gravity="center"
                                     android:layout_marginRight="10dp"
                                     android:layout_marginTop="10dp"
-                                    android:src="@drawable/bgbuku7">
+                                    android:src="@drawable/tujuh">
 
                                 </ImageView>
 
@@ -93,8 +95,11 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
-                                    android:layout_marginLeft="50dp"
-                                    android:text="BUKU KELAS VII">
+                                    android:layout_marginLeft="10dp"
+                                    android:text="BUKU KELAS VII"
+                                    android:textStyle="bold"
+                                    android:textColor="#fff"
+                                    android:textSize="20dp">
 
                                 </TextView>
 
@@ -108,8 +113,8 @@
 
                         <androidx.cardview.widget.CardView
                             android:onClick="buku8"
-                            android:layout_width="150dp"
-                            android:layout_height="150dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="120dp"
                             android:layout_rowWeight="1"
                             android:layout_columnWeight="1"
                             android:layout_marginLeft="12dp"
@@ -123,17 +128,18 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
+                                android:background="#00FFFF"
                                 android:orientation="horizontal">
 
 
                                 <ImageView
-                                    android:layout_width="140dp"
-                                    android:layout_height="140dp"
+                                    android:layout_width="150dp"
+                                    android:layout_height="100dp"
                                     android:layout_margin="10dp"
                                     android:layout_gravity="center"
                                     android:layout_marginRight="10dp"
                                     android:layout_marginTop="10dp"
-                                    android:src="@drawable/bgbuku8">
+                                    android:src="@drawable/delapan">
 
                                 </ImageView>
 
@@ -141,8 +147,11 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
-                                    android:layout_marginLeft="50dp"
-                                    android:text="BUKU KELAS VIII">
+                                    android:layout_marginLeft="10dp"
+                                    android:text="BUKU KELAS VIII"
+                                    android:textStyle="bold"
+                                    android:textColor="#fff"
+                                    android:textSize="20dp">
 
                                 </TextView>
 
@@ -154,8 +163,8 @@
                         <!--                            pembuka menu 3-->
                         <androidx.cardview.widget.CardView
                             android:onClick="buku9"
-                            android:layout_width="150dp"
-                            android:layout_height="150dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="120dp"
                             android:layout_rowWeight="1"
                             android:layout_columnWeight="1"
                             android:layout_marginLeft="12dp"
@@ -169,17 +178,18 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
+                                android:background="#FFD700"
                                 android:orientation="horizontal">
 
 
                                 <ImageView
-                                    android:layout_width="140dp"
-                                    android:layout_height="140dp"
+                                    android:layout_width="150dp"
+                                    android:layout_height="100dp"
                                     android:layout_margin="10dp"
                                     android:layout_gravity="center"
                                     android:layout_marginRight="10dp"
                                     android:layout_marginTop="10dp"
-                                    android:src="@drawable/bgbuku9">
+                                    android:src="@drawable/sembilan">
 
                                 </ImageView>
 
@@ -187,8 +197,11 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
-                                    android:layout_marginLeft="50dp"
-                                    android:text="BUKU KELAS IX">
+                                    android:layout_marginLeft="10dp"
+                                    android:text="BUKU KELAS IX"
+                                    android:textStyle="bold"
+                                    android:textColor="#fff"
+                                    android:textSize="20dp">
 
                                 </TextView>
 

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity"
-    android:background="@drawable/bag1">
+    android:background="@drawable/bag2">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -75,8 +75,9 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/bag2"
+                            android:background="@drawable/bag3"
                             android:gravity="center"
+                            android:onClick="profil"
                             android:orientation="vertical">
 
                             <ImageView
@@ -84,7 +85,6 @@
                                 android:layout_height="80dp"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:onClick="profil"
                                 android:src="@drawable/profil" />
 
                             <TextView
@@ -118,13 +118,13 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/bag2"
+                            android:background="@drawable/bag3"
                             android:gravity="center"
+                            android:onClick="guru"
                             android:orientation="vertical">
                             <ImageView
                                 android:layout_width="80dp"
                                 android:layout_height="80dp"
-                                android:onClick="guru"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
                                 android:src="@drawable/guru"/>
@@ -168,13 +168,13 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/bag2"
+                            android:background="@drawable/bag3"
                             android:gravity="center"
+                            android:onClick="fasilitas"
                             android:orientation="vertical">
                             <ImageView
                                 android:layout_width="80dp"
                                 android:layout_height="80dp"
-                                android:onClick="fasilitas"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
                                 android:src="@drawable/fasilitas"/>
@@ -209,13 +209,13 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/bag2"
+                            android:background="@drawable/bag3"
                             android:gravity="center"
+                            android:onClick="perpus"
                             android:orientation="vertical">
                             <ImageView
                                 android:layout_width="80dp"
                                 android:layout_height="80dp"
-                                android:onClick="perpus"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
                                 android:src="@drawable/perpus"/>
@@ -259,13 +259,13 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/bag2"
+                            android:background="@drawable/bag3"
                             android:gravity="center"
+                            android:onClick="eskul"
                             android:orientation="vertical">
                             <ImageView
                                 android:layout_width="80dp"
                                 android:layout_height="80dp"
-                                android:onClick="eskul"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
                                 android:src="@drawable/extra"/>
@@ -300,8 +300,9 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/bag2"
+                            android:background="@drawable/bag3"
                             android:gravity="center"
+                            android:onClick="galeri"
                             android:orientation="vertical">
 
                             <ImageView
@@ -309,7 +310,6 @@
                                 android:layout_height="80dp"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:onClick="galeri"
                                 android:src="@drawable/galery" />
 
                             <TextView

@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".guruActivity"
+    android:background="@drawable/bag2"
     android:gravity="center">
 
     <ScrollView
@@ -53,7 +54,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="40dp"
+                        android:layout_marginLeft="30dp"
                         android:layout_marginTop="40dp"
                         android:gravity="center"
                         android:text="Drs. Bambang Setyawan, M.M."
@@ -106,7 +107,7 @@
                         android:layout_marginLeft="40dp"
                         android:layout_marginTop="40dp"
                         android:gravity="center"
-                        android:text="Efi Kurniasih, S.Pd."
+                        android:text="Eko Prasetyo, S.Pd."
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -131,6 +132,7 @@
                         android:textSize="16sp"
                         android:textStyle="bold" />
                 </LinearLayout>
+
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
                 android:layout_width="150dp"
@@ -603,6 +605,7 @@
                         android:textStyle="bold" />
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
+
         </GridLayout>
     </ScrollView>
 </RelativeLayout>
