@@ -13,14 +13,4 @@ public class FasilitasActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fasilitas);
     }
-
-    public void Kelas(View view) {
-        Intent intent = new Intent(FasilitasActivity.this, KelasActivity.class);
-        startActivity(intent);
-    }
-
-    public void lapanganbasket(View view) {
-        Intent intent = new Intent(FasilitasActivity.this, LapanganbasketActivity.class);
-        startActivity(intent);
-    }
 }
