@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.view.animation.Animation;
@@ -61,6 +62,26 @@ public class MainActivity extends AppCompatActivity {
     public void galeri(View view) {
         Intent intent = new Intent(com.example.smpihsaniyahkotategal.MainActivity.this, GaleriActivity.class);
         startActivity(intent);
+    }
+
+    public void google(View view) {
+        goToUrl("https://smpihsaniyahkotategal.sch.id/");
+    }
+    public void facebook(View view) {
+        goToUrl("https://www.facebook.com/SMPIHSANIYAHTEGAL/");
+    }
+
+    public void instagram(View view) {
+        goToUrl("https://www.instagram.com/smpihsaniyah/");
+    }
+
+    public void youtube(View view) {
+        goToUrl("https://www.youtube.com/channel/UC3Vui9Wn7t9f-ZfOE_kP7yA");
+    }
+    private void goToUrl (String url) {
+        Uri uriUrl = Uri.parse(url);
+        Intent launchBrowser = new Intent(Intent.ACTION_VIEW, uriUrl);
+        startActivity(launchBrowser);
     }
 }
 
