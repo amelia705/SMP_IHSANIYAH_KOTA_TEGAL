@@ -37,9 +37,6 @@
             android:name=".PramukaActivity"
             android:exported="false" />
         <activity
-            android:name=".LapanganbasketActivity"
-            android:exported="false" />
-        <activity
             android:name=".AlbumVaksinActivity"
             android:exported="false" />
         <activity
@@ -53,9 +50,6 @@
             android:exported="false" />
         <activity
             android:name=".AlbumOsisActivity"
-            android:exported="false" />
-        <activity
-            android:name=".KelasActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
